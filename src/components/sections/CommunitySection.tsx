@@ -33,7 +33,7 @@ const CommunitySection: React.FC = () => {
         <div className="text-center mb-16">
           <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-4">Supporting Our Community</h2>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-            LocalEats is committed to strengthening the Jamaican culinary community and 
+            JamRoc is committed to strengthening the Jamaican culinary community and 
             supporting local businesses across the island.
           </p>
         </div>
@@ -60,7 +60,7 @@ const CommunitySection: React.FC = () => {
           <div className="bg-green-700 rounded-2xl p-8 md:p-12 text-white text-center mb-12">
             <h3 className="text-2xl md:text-3xl font-bold mb-6">Our Community Impact</h3>
             <p className="text-lg md:text-xl mb-8 max-w-3xl mx-auto">
-              When you order from LocalEats, you're directly supporting:
+              When you order from JamRoc, you're directly supporting:
             </p>
             <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
               <div className="bg-green-800 p-6 rounded-xl">
@@ -84,17 +84,17 @@ const CommunitySection: React.FC = () => {
           <StoryCard 
             image="https://images.pexels.com/photos/3771839/pexels-photo-3771839.jpeg?auto=compress&cs=tinysrgb&w=800" 
             name="Marcia Johnson"
-            story="My small jerk chicken spot was struggling until I joined LocalEats. Now I've hired two more staff and we're busier than ever!"
+            story="My small jerk chicken spot was struggling until I joined JamRoc. Now I've hired two more staff and we're busier than ever!"
           />
           <StoryCard 
             image="https://images.pexels.com/photos/3771838/pexels-photo-3771838.jpeg?auto=compress&cs=tinysrgb&w=800" 
             name="Devon Williams"
-            story="As a farmer, I love that LocalEats connects me directly with restaurants. My produce goes from farm to table in under 24 hours."
+            story="As a farmer, I love that JamRoc connects me directly with restaurants. My produce goes from farm to table in under 24 hours."
           />
           <StoryCard 
             image="https://images.pexels.com/photos/7595177/pexels-photo-7595177.jpeg?auto=compress&cs=tinysrgb&w=800" 
             name="Tanya Reid"
-            story="Thanks to the LocalEats culinary scholarship, I'm finally able to pursue my dream of becoming a chef specializing in Jamaican fusion cuisine."
+            story="Thanks to the JamRoc culinary scholarship, I'm finally able to pursue my dream of becoming a chef specializing in Jamaican fusion cuisine."
           />
         </div>
       </Container>

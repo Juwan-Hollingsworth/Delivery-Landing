@@ -18,7 +18,7 @@ const testimonials: Testimonial[] = [
     location: "Montego Bay",
     image: "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
     rating: 5,
-    text: "LocalEats was a lifesaver during our vacation! We got authentic Jamaican food delivered right to our resort room. The jerk chicken was incredible!"
+    text: "JamRoc was a lifesaver during our vacation! We got authentic Jamaican food delivered right to our resort room. The jerk chicken was incredible!"
   },
   {
     id: 2,
@@ -34,7 +34,7 @@ const testimonials: Testimonial[] = [
     location: "Negril",
     image: "https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
     rating: 4,
-    text: "We were staying at a resort with limited food options. LocalEats introduced us to amazing local dishes we would have never discovered otherwise!"
+    text: "We were staying at a resort with limited food options. JamRoc introduced us to amazing local dishes we would have never discovered otherwise!"
   },
   {
     id: 4,
@@ -123,7 +123,7 @@ const TestimonialsSection: React.FC = () => {
         <div className="text-center mb-12">
           <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-4">What Our Customers Say</h2>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-            Join thousands of satisfied customers enjoying authentic Jamaican cuisine through LocalEats.
+            Join thousands of satisfied customers enjoying authentic Jamaican cuisine through JamRoc.
           </p>
         </div>
         

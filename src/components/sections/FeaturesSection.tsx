@@ -34,7 +34,7 @@ const FeaturesSection: React.FC = () => {
     <section id="features" className="py-20 bg-gray-50">
       <Container>
         <div className="text-center mb-16">
-          <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-4">Why Choose LocalEats?</h2>
+          <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-4">Why Choose JamRoc?</h2>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
             We're more than just another food delivery app - we're bringing authentic Jamaican flavor to your doorstep
             with benefits you won't find anywhere else.
